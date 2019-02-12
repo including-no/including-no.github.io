@@ -1,0 +1,30 @@
+body {
+    background-color: #dcdcff;
+    padding: 1em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+article {
+    /* border: solid 1px #ababab; */
+    padding: 1em;
+}
+
+section {
+    padding: 1em;
+}
+
+div {
+    padding: 1ex;
+}
+
+.tweet {
+    border: solid 1px #a3a3a39f;
+    margin: 1ex;
+    width: 80ex;
+}
+
+.reply {
+    border-left: solid 4px #88a7a8;
+    margin-left: 2ex;
+    padding-left: 1ex;
+}
