@@ -3,7 +3,7 @@
 name: '[including.no]'
 description: 'An organization dedicated to make Norwegian tech more inclusive'
 favicon: 'assets/images/favicon.ico'
-logo: ''
+logo: 'assets/images/including.png'
 baseurl: ''
 #disqus: 'demowebsite'
 twitter: https://twitter.com/including_no
